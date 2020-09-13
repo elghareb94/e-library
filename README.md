@@ -1,2 +1,2 @@
 # elibrary
-elibrary website implemented by servlet, jsp and jdbc
+library management system implemented by servlet, jsp and jdbc
